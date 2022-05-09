@@ -1,2 +1,7 @@
 Data/
 .ipynb_checkpoints/
+*.csv
+Reduced_Data/articles.parquet.gzip
+Reduced_Data/transactions.parquet.gzip
+Reduced_Data/customers.parquet.gzip
+transactions.parquet.gzip
